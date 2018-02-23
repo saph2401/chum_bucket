@@ -1,5 +1,5 @@
 Salome Philip
-Lab5 - Version Control
+Sarah Whetstone Lab 5
 
 
 
